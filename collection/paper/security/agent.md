@@ -5,6 +5,7 @@
 - [2026/01] **[Safety in Embodied AI: Risks, Attacks, and Defenses](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/01] **[Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents](https://arxiv.org/abs/2601.10955)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/01] **[AgenTRIM: Tool Risk Mitigation for Agentic AI](https://arxiv.org/abs/2601.12449)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/12] **[MiniScope: A Least Privilege Framework for Authorizing Tool Calling Agents](https://arxiv.org/abs/2512.11147)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![tool-calling](https://img.shields.io/badge/tool-calling-87b800)
 - [2025/12] **[Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection](https://arxiv.org/abs/2512.18733)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[Systematization of Knowledge: Security and Safety in the Model Context Protocol Ecosystem](https://arxiv.org/abs/2512.08290)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **["MCP Does Not Stand for Misuse Cryptography Protocol": Uncovering Cryptographic Misuse in Model Context Protocol at Scale](https://arxiv.org/abs/2512.03775)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
